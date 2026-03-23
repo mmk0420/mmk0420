@@ -2,7 +2,7 @@
 
 ### 📊 СТАТА:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mmk0420&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmk04202&layout=compact&theme=tokyonight)
+
 
 
 
