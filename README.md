@@ -25,7 +25,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-5C2D91?style=flat-square&logo=jetbrains-rider&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white&labelColor=crimson)
 
 
 ---
