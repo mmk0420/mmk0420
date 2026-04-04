@@ -1,6 +1,6 @@
 <div align="center">
 
-# хайль, я ммк 👋
+# ммк0420
 
 **шкила поганая · .NET разработчик на полставки**
 
@@ -13,9 +13,8 @@
 ### 🧑‍💻 обо мне
 
 - 🎓 ШКОЛЬНЕГ, параллельно делаю свои пет проектики
-- 🔨 сейчас пилю **[Mokes.API](https://github.com/mmk0420/Mokes.API)** — REST API с JWT, EF Core и SQLite (mokes это notes и mmk типа лол)
-- 📚 активно осваиваю ASP.NET Core и всё что вокруг него
-- 🎯 цель — писать чистый, понятный код. в процессе (ну я правда пытаюсь)
+- 📚 пытаюсь в бекенд, асп.нет сейчас "осваиваю"
+- 🎯 цель — писать ЧИТАБЕЛЬНЫЙ код
 
 ---
 
@@ -26,7 +25,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains-rider&logoColor=white)
+
 
 ---
 
